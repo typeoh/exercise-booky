@@ -1,5 +1,5 @@
 import React from "react";
 
+class BrexitDeal extends React.Component {}
 
-
-export default 
+export default BrexitDeal;

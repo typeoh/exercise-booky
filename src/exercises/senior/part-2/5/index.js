@@ -1,5 +1,5 @@
 import React from "react";
 
+class Heaven extends React.Component {}
 
-
-export default 
+export default Heaven;

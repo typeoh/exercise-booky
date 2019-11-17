@@ -1,5 +1,5 @@
 import React from "react";
 
+const DOM = () => {};
 
-
-export default 
+export default DOM;

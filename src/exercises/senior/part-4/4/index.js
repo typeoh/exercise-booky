@@ -1,5 +1,5 @@
 import React from "react";
 
+class AgeCheck extends React.Component {}
 
-
-export default 
+export default AgeCheck;

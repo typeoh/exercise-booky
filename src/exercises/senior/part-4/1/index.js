@@ -1,5 +1,5 @@
 import React from "react";
 
+class SignIn extends React.Component {}
 
-
-export default 
+export default SignIn;

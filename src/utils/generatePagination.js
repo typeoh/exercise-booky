@@ -1,4 +1,4 @@
-const files = require("./generateExercises");
+const { files } = require("./generateExercises");
 
 export const pages = files
   .map(({ destination }, index, fullArray) => {

@@ -1,5 +1,4 @@
 import React from "react";
 
-
-
-export default 
+class AddToCartButton extends React.Component {}
+export default AddToCartButton;

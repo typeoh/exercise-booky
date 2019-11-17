@@ -1,5 +1,5 @@
 import React from "react";
 
+class PortfolioApp extends React.Component {}
 
-
-export default 
+export default PortfolioApp;

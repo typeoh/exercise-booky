@@ -1,5 +1,4 @@
 import React from "react";
 
-
-
-export default 
+class EvilSignInForm extends React.Component {}
+export default EvilSignInForm;
